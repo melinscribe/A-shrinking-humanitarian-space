@@ -13,3 +13,8 @@ This repository contains the following files:
 - README.md: this file
 - Appendix.pdf: contains additional analyses
 - Appendix.R: produces the results in the online appendix of the article
+
+
+# Required Software
+
+Running the Matched Wake Analysis (MWA) requires rJava (x64 Version, https://www.oracle.com/java/technologies/downloads/#jdk18-mac) and Quartz (www.xquartz.org)
