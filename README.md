@@ -11,4 +11,5 @@ This repository contains the following files:
 - Data
     - List of Data files       
 - README.md: this file
+- Appendix.pdf: contains additional analyses
 - Appendix.R: produces the results in the online appendix of the article
